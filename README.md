@@ -65,15 +65,15 @@ Script name is step4_get_sum_of_forecasts.py and the output for each provider/pr
 
 
 ## Requirements
-The work was done using:
-Python 3.7.16	
-	Packages:
-	* Fbprophet 0.7.1
-	* Matplotlib 3.2.2
-	* Numpy	1.21.6
-	* Pandas 1.2.3
-	* Sklearn 1.0.2
-	* Statsmodels 0.13.5
+The work was done using:<br> 
+Python 3.7.16	<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   		Packages:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   		* Fbprophet 0.7.1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	* Matplotlib 3.2.2<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	* Numpy	1.21.6<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	* Pandas 1.2.3<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	* Sklearn 1.0.2<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	* Statsmodels 0.13.5<br> 
 
 
 
